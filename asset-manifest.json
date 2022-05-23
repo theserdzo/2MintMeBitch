@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/theserdzo/2MintMeBitch/static/css/main.bdc634b4.chunk.css",
+    "main.js": "/theserdzo/2MintMeBitch/static/js/main.ee9ecc32.chunk.js",
+    "main.js.map": "/theserdzo/2MintMeBitch/static/js/main.ee9ecc32.chunk.js.map",
+    "runtime-main.js": "/theserdzo/2MintMeBitch/static/js/runtime-main.43548342.js",
+    "runtime-main.js.map": "/theserdzo/2MintMeBitch/static/js/runtime-main.43548342.js.map",
+    "static/js/2.ce74d095.chunk.js": "/theserdzo/2MintMeBitch/static/js/2.ce74d095.chunk.js",
+    "static/js/2.ce74d095.chunk.js.map": "/theserdzo/2MintMeBitch/static/js/2.ce74d095.chunk.js.map",
+    "index.html": "/theserdzo/2MintMeBitch/index.html",
+    "precache-manifest.3bb5b3b0cfcd3e88c34ff04f6cdc8908.js": "/theserdzo/2MintMeBitch/precache-manifest.3bb5b3b0cfcd3e88c34ff04f6cdc8908.js",
+    "service-worker.js": "/theserdzo/2MintMeBitch/service-worker.js",
+    "static/css/main.bdc634b4.chunk.css.map": "/theserdzo/2MintMeBitch/static/css/main.bdc634b4.chunk.css.map",
+    "static/js/2.ce74d095.chunk.js.LICENSE.txt": "/theserdzo/2MintMeBitch/static/js/2.ce74d095.chunk.js.LICENSE.txt",
+    "static/media/T.jpg": "/theserdzo/2MintMeBitch/static/media/T.f34ad4b9.jpg",
+    "static/media/style.scss": "/theserdzo/2MintMeBitch/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/theserdzo/2MintMeBitch/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/theserdzo/2MintMeBitch/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/theserdzo/2MintMeBitch/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/theserdzo/2MintMeBitch/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/theserdzo/2MintMeBitch/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/theserdzo/2MintMeBitch/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/logo.svg": "/theserdzo/2MintMeBitch/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/theserdzo/2MintMeBitch/static/media/video-placeholder.f34ad4b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43548342.js",
+    "static/js/2.ce74d095.chunk.js",
+    "static/css/main.bdc634b4.chunk.css",
+    "static/js/main.ee9ecc32.chunk.js"
+  ]
+}
